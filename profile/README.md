@@ -8,3 +8,9 @@
 <p align="center">
   <img align="center" alt="QuasiMkl" src="https://github-readme-stats.vercel.app/api?username=QuasiMkl&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=discord_old_blurple" />
 </p>
+
+<a href="https://ko-fi.com/Z8Z2BEGMC">
+    <p align="center">
+        <img align="center" alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
+    </p>
+</a>
